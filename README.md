@@ -1,16 +1,35 @@
-### Hi there 👋
+### Hi there, I'm HaJeong Kim👋
 
-<!--
-**Kim-Ha-Jeong/Kim-Ha-Jeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Kim-Ha-Jeong)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:kha031821@gmail.com)
+<img align="right" alt="img" src="https://user-images.githubusercontent.com/46347830/111913314-effacb80-8ab0-11eb-87ef-309e283c1d91.jpg" width="50%" height="auto" />
 
-Here are some ideas to get you started:
+### 🔭 I’m currently working on:
+- Taking courses about CSE in EWHA
+- Working in Doodle
+### 🌱 I’m currently learning:
+- interactive web
+- spring
+### ✨ ETC:
+- ISTJ
+- night owl🦉
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Programming languages and tools:
+<p>
+	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=Kim-Ha-Jeong&show_icons=true&hide_border=true" />
+
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+<br />
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
+<br />
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+</p>
+
+
+
+
