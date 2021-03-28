@@ -6,7 +6,6 @@
 
 ### 🔭 I’m currently working on:
 - Taking courses about CSE in EWHA
-- Working in Doodle
 ### 🌱 I’m currently learning:
 - interactive web
 - spring
