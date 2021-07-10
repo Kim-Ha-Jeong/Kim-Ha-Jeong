@@ -7,7 +7,6 @@
 ### 🔭 I’m currently working on:
 - Taking courses about CSE in EWHA
 ### 🌱 I’m currently learning:
-- interactive web
 - spring
 ### ✨ ETC:
 - ISTJ
