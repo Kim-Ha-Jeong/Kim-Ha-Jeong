@@ -7,7 +7,7 @@
 ### 🔭 I’m currently working on:
 - Taking courses about CSE in EWHA
 ### 🌱 I’m currently learning:
-- spring
+- backend
 ### ✨ ETC:
 - ISTJ
 - night owl🦉
