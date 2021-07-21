@@ -6,6 +6,7 @@
 
 ### 🔭 I’m currently working on:
 - Taking courses about CSE in EWHA
+- Naver BoostCamp Challenge
 ### 🌱 I’m currently learning:
 - backend
 ### ✨ ETC:
